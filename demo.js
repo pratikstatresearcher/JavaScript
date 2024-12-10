@@ -5,3 +5,4 @@ console.log("I am Pratik");
 let age = 45;
 const user_name = "Pratik";
 console.table([user_name, age]);
+let user_id = 152;
